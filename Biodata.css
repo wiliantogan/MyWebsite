@@ -1,0 +1,45 @@
+html {
+    background-image: url("wall5.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.border {
+    display: table;
+    vertical-align: middle;
+    text-align: center;
+    width: 25%;
+    margin-left: 430px;
+    margin-right: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 7px;
+    color: red;
+}
+
+h1 {
+    color: coral;
+    text-align: center;
+}
+h3 {
+    color: yellow;
+    text-align: center;
+}
+
+p {
+    color: wheat;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: red;
+}
+
+a:hover {
+    color: white;
+    background-color: red;
+}

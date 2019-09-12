@@ -1,0 +1,35 @@
+img.tengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+    text-align: center;
+    color:darkblue;
+}
+
+p {
+    text-align: center;
+    color: blue; 
+}
+html {
+    background-image: url("Sekolah Cinta Budaya.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+hr {
+    background-color:blue; height:10px; width:100%;
+}
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: blueviolet;
+}
